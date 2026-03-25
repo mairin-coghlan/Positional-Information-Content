@@ -6,7 +6,6 @@ from Bio.Seq import Seq
 from math import log2
 
 file = '14test.txt'
-os.chdir('/stratagem/processed_16s/')
 
 #processing text file into list
 def text_to_list(file):
