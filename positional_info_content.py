@@ -1,6 +1,3 @@
-import pandas as pd
-import numpy as np
-import os
 from Bio import motifs
 from Bio.Seq import Seq
 from math import log2
